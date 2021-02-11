@@ -1,6 +1,7 @@
 {
-	"name": "SVELTE-KIT",
+	"name": "sveltekit-realworld",
 	"version": "0.0.1",
+	"type": "module",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
@@ -21,6 +22,5 @@
 		"svelte": "^3.32.2",
 		"svelte-preprocess": "^4.6.7",
 		"tailwindcss": "^2.0.3"
-	},
-	"type": "module"
+	}
 }

@@ -16,6 +16,13 @@ npm init svelte@next my-app
 
 > Note: the `@next` is temporary
 
+Auto configure postcss/tailwind. See [svelte-adders](https://github.com/svelte-add/svelte-adders)
+
+```bash
+npx apply svelte-add/postcss
+npx apply svelte-add/tailwindcss
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
