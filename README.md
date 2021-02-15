@@ -19,8 +19,8 @@ npm init svelte@next my-app
 Auto configure postcss/tailwind. See [svelte-adders](https://github.com/svelte-add/svelte-adders)
 
 ```bash
-npx apply svelte-add/postcss
-npx apply svelte-add/tailwindcss
+npx apply svelte-add/postcss --no-ssh
+npx apply svelte-add/tailwindcss --no-ssh
 ```
 
 ## Developing
